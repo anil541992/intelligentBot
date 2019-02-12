@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/backup_data_old_laptop/desktop/chatBot_jars/telegrambots-3.6 (2).jar"/>
+	<classpathentry kind="lib" path="C:/backup_data_old_laptop/desktop/chatBot_jars/telegrambots-3.6-jar-with-dependencies (1).jar"/>
+	<classpathentry kind="lib" path="C:/backup_data_old_laptop/desktop/chatBot_jars/telegrambots-abilities-3.6 (1).jar"/>
+	<classpathentry kind="lib" path="C:/backup_data_old_laptop/desktop/chatBot_jars/telegrambots-abilities-3.6-jar-with-dependencies (1).jar"/>
+	<classpathentry kind="lib" path="C:/backup_data_old_laptop/desktop/chatBot_jars/telegrambotsextensions-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/backup_data_old_laptop/desktop/chatBot_jars/telegrambotsextensions-3.6-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/backup_data_old_laptop/desktop/chatBot_jars/telegrambots-meta-3.6 (1).jar"/>
+	<classpathentry kind="lib" path="C:/backup_data_old_laptop/desktop/chatBot_jars/telegrambots-meta-3.6-jar-with-dependencies (1).jar"/>
+	<classpathentry kind="lib" path="C:/backup_data_old_laptop/desktop/jar/neo-sdk-core-api-2.36.4.jar"/>
+	<classpathentry kind="lib" path="C:/backup_data_old_laptop/desktop/jar/ngdbc.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/i331245/Downloads/jl1.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
